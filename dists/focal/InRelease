@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: ubyon-debian
+Label: ubyon-debian
+Codename: focal
+Date: Fri, 21 Oct 2022 00:19:26 UTC
+Architectures: amd64
+Components: main
+Description: Ubyon APT Repository
+MD5Sum:
+ 4cb0cf34c2c507bb4805ec937b3d3cff 5773 main/binary-amd64/Packages
+ 99df9aa5909c7d4f339b6f5ba1518a32 2340 main/binary-amd64/Packages.gz
+ 52f98d02eb4a04d9238a8b5844a61357 111 main/binary-amd64/Release
+SHA1:
+ c2eccfabcbdf45291b9c136f4a1fc3a082526ee7 5773 main/binary-amd64/Packages
+ a2d7582e335d18eb0bfe43772eb3b02c826445df 2340 main/binary-amd64/Packages.gz
+ c7e1f674b7bbe6309488cbf581cb95d300bc22ce 111 main/binary-amd64/Release
+SHA256:
+ e09598094dfd0895116fea8617a38eb9bf6514976b6da4cbd8ef381b46592f35 5773 main/binary-amd64/Packages
+ 12d08fc89c3be0bc2453090da4ee5c09c3b168b6b40bee13668666b314631da1 2340 main/binary-amd64/Packages.gz
+ b14e465ea8648c5604896cb3af57389d339f4d96f3000f22ce94a0c5c7fc6cd6 111 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEWMdeTnBfJRguy/9hyAmLC2fb7QgFAmNR5Y4ACgkQyAmLC2fb
+7QjlUwv9Hh2arh0sGojJzmgrVh52IvZn1aI2zG+u8109bIp2J7jfM/7hgY5/zCNj
+5oTMcjNGKr6uvhmwpu7/WdENo40bWtsuM3jvJFU/PHwvmEOJ21N6kI6OS+BrYAdm
+97ejrvri/lEaSsxFABH6lGousgb1YJ6UuOFkSdSs1tOufFF0hIBJRPwCMxyjI34G
+rZY69jUEkgaTRPCPaphjX6zFYffT/Yynm2Q8qEaNQjQ8sNq5RgAoToo2Yq51cogu
+syi4OtDO9AKOOaz2ZTGhNZNl1H9idCk3soTwmqxY/QUcZLNwpFxUu8uG3zWSrdX8
+o4wFhWpGSsvvjlZR70PnfLn38CMMjB5Q8d+dXQB+ilukoLIjFlRAV7nZdj9T1NwU
+hDBhhfeH3Nn26NXCIGc09GjzAQ45QaIKooaFEXWVe05mVoVROctzn4/8+WB7yVXU
+5iXf3VfY42n3g3iTrGP/S4fFGFmv5Br4yov5baU+2Erqj27kihSqtDejzuq2GhA3
+3L30lnD1
+=uVb+
+-----END PGP SIGNATURE-----
