@@ -112,32 +112,17 @@ Description: protocol buffers C++ library
  This package contains the runtime library needed for C++ applications.
 Original-Maintainer: Iustin Pop <iustin@debian.org>
 
-Package: ubyon-base
+Package: ubyon-ac
 Version: 0.9.0-eeb419e
 Architecture: amd64
+Depends: ubyon-infra
 Maintainer: Ubyon Inc
 Priority: optional
 Section: ubyon
-Filename: pool/main/u/ubyon-base/ubyon-base_0.9.0-eeb419e_amd64.deb
-Size: 2696
-SHA256: e3dcc2114c549fe74314df193f62d1ac45a2d1bb332618e774ec470f12e3763d
-SHA1: dc43b951f43ae43aa7edd4f26fb54003488e6bea
-MD5sum: 0cdc80f5e093befdb972cc10af409ec6
-Description: Base software required by rest of ubyon packages.
-
-Package: ubyon-infra
-Version: 0.9.0-eeb419e
-Architecture: amd64
-Depends: binutils, curl, wget, ca-certificates, libgflags2.2 (>= 2.2.2),
-  liblzo2-2, libboost-filesystem1.71.0, libcityhash, libgrpc++1,
-  libgoogle-glog0, libgrpc7, libprotobuf18, ubyon-base
-Maintainer: Ubyon Inc
-Priority: optional
-Section: ubyon
-Filename: pool/main/u/ubyon-infra/ubyon-infra_0.9.0-eeb419e_amd64.deb
-Size: 376160
-SHA256: e9241461a5e4883cd5a87da33a09322d8e592a9bdfd45d6419f1cf174a46d501
-SHA1: 8b18c0e9a78487cbc870c63649f4e5634d94040e
-MD5sum: 15980f59323a29c4324809870db28edc
+Filename: pool/main/u/ubyon-ac/ubyon-ac_0.9.0-eeb419e_amd64.deb
+Size: 1646968
+SHA256: af1904ea0589db20745560f5810be5719410804fcaeaa99a8e018189b1add568
+SHA1: 252996221411bbe6d569dc86db87b3926654dcce
+MD5sum: 6e13bee90a515cc0ab37fb4a34a3d39a
 Description: Ubyon infrastructure software
 
