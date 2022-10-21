@@ -126,32 +126,3 @@ SHA1: 252996221411bbe6d569dc86db87b3926654dcce
 MD5sum: 6e13bee90a515cc0ab37fb4a34a3d39a
 Description: Ubyon infrastructure software
 
-Package: ubyon-base
-Version: 0.9.0-eeb419e
-Architecture: amd64
-Maintainer: Ubyon Inc
-Priority: optional
-Section: ubyon
-Filename: pool/main/u/ubyon-base/ubyon-base_0.9.0-eeb419e_amd64.deb
-Size: 2436
-SHA256: 765c475f4207092a2b2b99e8af160de51dc1b7b2389d90f5eb5e2cd2cff69be1
-SHA1: 28caaa44bb63a1177eb47bd44a66bbad5de0ca41
-MD5sum: c3c0254e2d03d8fc8334fde47172050c
-Description: Base software required by rest of ubyon packages.
-
-Package: ubyon-infra
-Version: 0.9.0-eeb419e
-Architecture: amd64
-Depends: binutils, curl, wget, ca-certificates, libgflags2.2 (>= 2.2.2),
-  liblzo2-2, libboost-filesystem1.71.0, libcityhash, libgrpc++1,
-  libgoogle-glog0, libgrpc7, libprotobuf18, ubyon-base
-Maintainer: Ubyon Inc
-Priority: optional
-Section: ubyon
-Filename: pool/main/u/ubyon-infra/ubyon-infra_0.9.0-eeb419e_amd64.deb
-Size: 376440
-SHA256: 0cbdd9d00a5eaadfe024ebc858b2ad312465a46948b0be64af17b222a0728919
-SHA1: 9eacc23fe9b0bb2af0276ae7b5bdce071f7faeeb
-MD5sum: 8845d00a368385c2b8f20fa05001cf16
-Description: Ubyon infrastructure software
-
