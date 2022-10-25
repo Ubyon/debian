@@ -1,5 +1,0 @@
-Component: main
-Origin: ubyon-debian
-Label: ubyon-debian
-Architecture: amd64
-Description: Ubyon APT Repository
