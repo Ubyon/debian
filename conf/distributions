@@ -1,6 +1,6 @@
 Origin: ubyon-debian
 Label: ubyon-debian
-Codename: common
+Codename: thirdparty
 Architectures: amd64
 Components: main
 Description: Ubyon APT Repository
