@@ -113,45 +113,45 @@ Description: protocol buffers C++ library
 Original-Maintainer: Iustin Pop <iustin@debian.org>
 
 Package: ubyon-ac
-Version: 0.9.0-bddaed6
+Version: 0.9.0-6a55437
 Architecture: amd64
 Depends: ubyon-infra
 Maintainer: Ubyon Inc
 Priority: optional
 Section: ubyon
-Filename: pool/main/u/ubyon-ac/ubyon-ac_0.9.0-bddaed6_amd64.deb
-Size: 1646720
-SHA256: c943dd118cb54b76624391e73a07b9a6ea5ae714c15cd848855def6a74b68b0e
-SHA1: fcc030dce435f56dbda6c369f3356813cf6b53c7
-MD5sum: bf5dd68d2716896b3f7b5e3eeff43341
+Filename: pool/main/u/ubyon-ac/ubyon-ac_0.9.0-6a55437_amd64.deb
+Size: 1645752
+SHA256: a834e9175e35e094323528d1c84161b526a7c865efb2787b28c0fbbe63be6014
+SHA1: d5cd084814564ba778b151bff69c8ceaf736c0ea
+MD5sum: e07244f8f022a2799c6641f91546f7ca
 Description: Ubyon infrastructure software
 
 Package: ubyon-base
-Version: 0.9.0-bddaed6
+Version: 0.9.0-6a55437
 Architecture: amd64
 Maintainer: Ubyon Inc
 Priority: optional
 Section: ubyon
-Filename: pool/main/u/ubyon-base/ubyon-base_0.9.0-bddaed6_amd64.deb
-Size: 2440
-SHA256: 37e5c662ad0963609d21686141679994384f8b21923bdae3eac3eef8f1ddf758
-SHA1: 639f7a2c440ab27b6d78d21fc8062a16314a284a
-MD5sum: c33515a4c2fe8413a9d619e59e3cd7b9
+Filename: pool/main/u/ubyon-base/ubyon-base_0.9.0-6a55437_amd64.deb
+Size: 2436
+SHA256: f043ce547266f206e758039f3c3db5baba2964b96b44d3fe0303fd7082108903
+SHA1: f6721568317338120b3e8a6f843db5028ce094e2
+MD5sum: 21514cd83c49e97a5bc290d38fbf33e2
 Description: Base software required by rest of ubyon packages.
 
 Package: ubyon-infra
-Version: 0.9.0-bddaed6
+Version: 0.9.0-6a55437
 Architecture: amd64
 Depends: binutils, curl, wget, ca-certificates, libgflags2.2 (>= 2.2.2),
-  liblzo2-2, libboost-filesystem1.71.0, libcityhash, libgrpc++1,
-  libgoogle-glog0, libgrpc7, libprotobuf18, ubyon-base
+  liblzo2-2, libcityhash, libgrpc++1, libgoogle-glog0, libgrpc7,
+  libprotobuf18, ubyon-base
 Maintainer: Ubyon Inc
 Priority: optional
 Section: ubyon
-Filename: pool/main/u/ubyon-infra/ubyon-infra_0.9.0-bddaed6_amd64.deb
-Size: 376340
-SHA256: 2ea1f9d825b53f44fd59ce0560ae381933a504f444cba79d466044a9b433726f
-SHA1: 7240df1be1b221a90c3fc38a38b9ae85f5f63fc4
-MD5sum: 3ab0fe5feec9cce3d9e17b0cf0485791
+Filename: pool/main/u/ubyon-infra/ubyon-infra_0.9.0-6a55437_amd64.deb
+Size: 376416
+SHA256: 8ca4d0a0baaa4d926302a13d497ddcfd2f66750d509842880fa4c42c30ee19f9
+SHA1: 564544cbaecd7f9b0b8536d31f3fb75a0226bc3a
+MD5sum: 54e44745c0c325e1e1f86bd0f6e43a2c
 Description: Ubyon infrastructure software
 
