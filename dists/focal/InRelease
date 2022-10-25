@@ -4,7 +4,7 @@ Hash: SHA512
 Origin: ubyon-debian
 Label: ubyon-debian
 Codename: focal
-Date: Tue, 25 Oct 2022 19:19:06 UTC
+Date: Tue, 25 Oct 2022 20:44:47 UTC
 Architectures: amd64
 Components: main
 Description: Ubyon APT Repository
@@ -22,15 +22,15 @@ SHA256:
  b14e465ea8648c5604896cb3af57389d339f4d96f3000f22ce94a0c5c7fc6cd6 111 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEWMdeTnBfJRguy/9hyAmLC2fb7QgFAmNYNqoACgkQyAmLC2fb
-7QhTIAv9GUBKlvKatuJFY3GB7FgZtpeMQN+MlHyQ4uaCEY8xvDkWvTS4pOXgmwvt
-elQ3daNvEQceJ4FG2w2AZz7hdOxWjukRwde/aQKGsDQu8y44CEQ3OH3M/QaauAdP
-hKHRYx05/wcloencUPZ83zthEBNeNMlju0qdacSdRchSBwkSJzFmLNtSpRtMULuy
-GPvpQRQH2esIMbl1WzWUo18LVzrY1cA/e+uOw1z0r7oqd70BNFkxIGHkgfqz6ORV
-efARrUMzp0ujqJWnQ3kUJFdcmv8aLhp6FSMGSSSar8yU9kRRTwBIxjOvKyevcs6C
-Lig0VmJLARC9qLZtkQZvx8Z2I4UzBEJndXwOuozpdt1pij+PE0ubCGrVaJ940F6Q
-MYNdDRjyyWuqHhdyecxN54qjPPQccRMrd8jWz2gRTxbkjEIFFfu2Tn3UkIqAb5gO
-bOhMNCDgLiYWmmcVaysJUtZHQ4yicPM88JXcArVMYLh8Icl80OWYZmINqabjkYZd
-m/iSA1cp
-=5RbY
+iQGzBAEBCgAdFiEEWMdeTnBfJRguy/9hyAmLC2fb7QgFAmNYSr8ACgkQyAmLC2fb
+7QjAkAv+Nia2bQgSO2blWyBZTxY1Na0r91Que4x2hEvCaTSqIwU8Wi+LBkvfzcRO
+tS4hsFlWX94hYFl303HEHP4qtCTFG6xWWEEqpUGi94kvlFawDMNsuxyDhtD22wg7
+tboanetyW4QjsCungYJlkPrZKY9qoD4JV6gtlDGwyICRk8UTX4Di3U9vSxFgRzi/
+nunBuR+L9Iezu/ps2svJRTGfzMBI9otJ7BkvTL5UAiAfHYa0gD15AqOOrdBem/l5
+4mzMtE8bJz/FpwF1MEfGFbagkquBfC86jvJix31tSlzobUiUOYrVxYNr5ZGy8se9
+j9yPPB9+59el34EOkzEmH1JXqvsmHaYkplxbhPax0f2TZGE32Ktbwb3iIgnD7ooa
+lEdTjGV0OQDgRynGHRdrD/7hJ7cc4uGNCHTULxbc370ATU2uuC3Pso05uhvuV+m+
+sWms+fAm2ChsCaqma02yYdVdW6LTAwzyksnu7VE2AN+vUppATuKZ1jh4YNyL9s83
+UxMM2fF0
+=LitX
 -----END PGP SIGNATURE-----
