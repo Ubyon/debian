@@ -1,0 +1,19 @@
+Origin: ubyon-debian
+Label: ubyon-debian
+Codename: common
+Date: Tue, 25 Oct 2022 22:57:38 UTC
+Architectures: amd64
+Components: main
+Description: Ubyon APT Repository
+MD5Sum:
+ ccf53b0bbdad7c09ffcabd03c27f6c14 4304 main/binary-amd64/Packages
+ 2b8f21182a6550a2652dcb492c1c2df4 1829 main/binary-amd64/Packages.gz
+ 52f98d02eb4a04d9238a8b5844a61357 111 main/binary-amd64/Release
+SHA1:
+ 9982f63bdefddb6f84d4bf01908c8fe552605e0b 4304 main/binary-amd64/Packages
+ 1ef7cc2b62194a7eb3a793d55bc78c8a7a7ae7e2 1829 main/binary-amd64/Packages.gz
+ c7e1f674b7bbe6309488cbf581cb95d300bc22ce 111 main/binary-amd64/Release
+SHA256:
+ 3fd25f4927dd000fa08eb018011a3554bb5bc5591f6edb11da288a412a915214 4304 main/binary-amd64/Packages
+ 7c8736babc4a470b3abcc07c3da71609995fdf37e4821fe8ee568cbf6263a3e1 1829 main/binary-amd64/Packages.gz
+ b14e465ea8648c5604896cb3af57389d339f4d96f3000f22ce94a0c5c7fc6cd6 111 main/binary-amd64/Release
