@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: ubyon-debian
+Label: ubyon-debian
+Codename: jammy
+Date: Tue, 25 Oct 2022 22:19:47 UTC
+Architectures: amd64
+Components: main
+Description: Ubyon APT Repository
+MD5Sum:
+ 78136b044d43d16c446cbf806f58099c 1481 main/binary-amd64/Packages
+ 24463ce55604359be1cb6d127574cb4c 695 main/binary-amd64/Packages.gz
+ 52f98d02eb4a04d9238a8b5844a61357 111 main/binary-amd64/Release
+SHA1:
+ 31266f7208522efffa3f7c8a1fb91311727e87b4 1481 main/binary-amd64/Packages
+ cdb5fb5611beaf79f3758923c5907b8a2a1f08aa 695 main/binary-amd64/Packages.gz
+ c7e1f674b7bbe6309488cbf581cb95d300bc22ce 111 main/binary-amd64/Release
+SHA256:
+ 8108d60b3d0c35f7b8d1006ca9c6d320ef883dcc588c33dcad098461b2162bd5 1481 main/binary-amd64/Packages
+ ec35c55751815d30b4359e962db92ca422bf8141c89b15daaa00bc0903312b74 695 main/binary-amd64/Packages.gz
+ b14e465ea8648c5604896cb3af57389d339f4d96f3000f22ce94a0c5c7fc6cd6 111 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEWMdeTnBfJRguy/9hyAmLC2fb7QgFAmNYYQMACgkQyAmLC2fb
+7Qj3dAv9EoQVZCM7d3V/ddFequoQOQVLWZdQFBN3E4AfMl3g0Fm/YUWxfDqPp9eM
+t7x/dhGvgaTthmD3YkfWW1KwkZveAhdALQ7XiDK2UbJT3I02EP02D9OMmDCVo6Pt
+p/p7/DLlJpZkedIo8hKlNH8uljgvheLyxU4llu7VWHDl4NBZn/6abNvHOms5AZ27
+iBkAO+GBv2+2qH1ZjScaz2uNKv0D8nG6hdggIJvbaRL/31OYV1Z2SK7fiTkzASa0
+fj9Fk6QoVHUTM4A/QQZLr5FJw7YWrweZIX0ixWyMGzsD6W04393QhUXDd+KWHtj/
+gmqe6ZatkW82vjxKfI+kwcQ5/rbp6Vbm90T4yIzAluSi6SXlIgLJ2U3rpLtWKWEe
+aPIH5oO/1vFpDL7AOucVcambf+gsJl6WMbup5d/cyoqoqWIGO7Jhz2LFBrC9eaIK
+JmtKYLEiHTOveyoHpIEE9OtfkNqUxvIPYb/zZQguGc8b2rRIgJsb6qv834zqp+c2
+7aJiCAJa
+=B3JE
+-----END PGP SIGNATURE-----
