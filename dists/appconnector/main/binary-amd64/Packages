@@ -6,10 +6,10 @@ Maintainer: Ubyon Inc
 Priority: optional
 Section: ubyon
 Filename: pool/main/u/ubyon-ac/ubyon-ac_0.9.0-3b50919_amd64.deb
-Size: 7632988
-SHA256: 0b83dc10874c710b20ef3efc357c84da4994c34a2bd0c89c82c7d08cbd5ed697
-SHA1: 216e56a7bd5aad7284ce2ba10076194b47af9d58
-MD5sum: 52780f55c2f8fec412d8f4e84e016da1
+Size: 7631648
+SHA256: ea07d17abb55bd733f3bdcad98c46d2eb9badc8cc9f3b4ee60e75e8a270f6c2a
+SHA1: 859e620079df6a6a93898cbb8bd3fcea095c8d57
+MD5sum: 3afa37b5c8c61581cbd9d0d756d21239
 Description: Ubyon infrastructure software
 
 Package: ubyon-base
@@ -19,10 +19,10 @@ Maintainer: Ubyon Inc
 Priority: optional
 Section: ubyon
 Filename: pool/main/u/ubyon-base/ubyon-base_0.9.0-3b50919_amd64.deb
-Size: 2436
-SHA256: 81417231f747337618f20947f819507975f0ed78abe1a745ced2ce0818e5c7e8
-SHA1: aa9ee27a4e847acfd70b321c94fb19d99038b28a
-MD5sum: d7e62ddecde1c55ff578a4e913826cef
+Size: 2432
+SHA256: 06d6b49c1e296dbfb1fa8f86124e74cad6d1ae277a7b5a5f115646d374cb78d4
+SHA1: 68959cc7aa98b56d0e610ea9d7c29f1d8c711cbe
+MD5sum: efd2f9641c5adf5e73513bcbc14ce0f4
 Description: Base software required by rest of ubyon packages.
 
 Package: ubyon-infra
@@ -33,9 +33,9 @@ Maintainer: Ubyon Inc
 Priority: optional
 Section: ubyon
 Filename: pool/main/u/ubyon-infra/ubyon-infra_0.9.0-3b50919_amd64.deb
-Size: 1664
-SHA256: 2400f605463ee9cfc0718870eb3ef1b25277a5add324c0d6e467837b045524f7
-SHA1: 3daaee4c98f68fafe68d1ef045ec33dd950d232f
-MD5sum: 8d346eca8be8a198fc53904d6a6c2a23
+Size: 1660
+SHA256: 5ae1cbeefafeabb34ae09a73660b3168c290989de9d31541d165929c76c2ab24
+SHA1: a0556b3195501048d206b954932ec431f195da45
+MD5sum: faf4fab602571eb4c4fe631797ed1d31
 Description: Ubyon infrastructure software
 
