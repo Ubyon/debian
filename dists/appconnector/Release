@@ -1,19 +1,19 @@
 Origin: ubyon-debian
 Label: ubyon-debian
 Codename: appconnector
-Date: Sat, 05 Nov 2022 08:30:48 UTC
+Date: Sun, 06 Nov 2022 03:01:03 UTC
 Architectures: amd64
 Components: main
 Description: Ubyon APT Repository
 MD5Sum:
- 6c3c069bb7af24496e9001bb3ed32002 1270 main/binary-amd64/Packages
- 9669ea307dbf93696aac3790ad3ac792 571 main/binary-amd64/Packages.gz
+ 9ac7e2db3fa8ae49dadb6e6a422b056d 1270 main/binary-amd64/Packages
+ f7e16b894284f75c372b6aba1c5a1eba 569 main/binary-amd64/Packages.gz
  52f98d02eb4a04d9238a8b5844a61357 111 main/binary-amd64/Release
 SHA1:
- 88fb278e43cb0a56233e897d35300674affb86e0 1270 main/binary-amd64/Packages
- c9a68f5843f3ea2d9d26a4a544195b0ca218dadf 571 main/binary-amd64/Packages.gz
+ 71e8969ab65b1fe7b1beaca01f552af837c8220b 1270 main/binary-amd64/Packages
+ e4f9d2699b47d796e6351ee80fcfb01d296d0c87 569 main/binary-amd64/Packages.gz
  c7e1f674b7bbe6309488cbf581cb95d300bc22ce 111 main/binary-amd64/Release
 SHA256:
- e6c59edba4fd3308348c4d0e9fe09010c9195138cbdaa2d3ab3ee133f90cb1a0 1270 main/binary-amd64/Packages
- 25fe54ad4f9479cb2038559a828b30df4b7b8ab9b41fe37f92ad2debda59c088 571 main/binary-amd64/Packages.gz
+ ef72eceea8d4d5255802913244874a6014f88a465283a2883c74db2981945da0 1270 main/binary-amd64/Packages
+ 00d3981c9ff332bcb12473bcdfa49867a9b10366fa88c2fa17903994e41f4ce0 569 main/binary-amd64/Packages.gz
  b14e465ea8648c5604896cb3af57389d339f4d96f3000f22ce94a0c5c7fc6cd6 111 main/binary-amd64/Release
