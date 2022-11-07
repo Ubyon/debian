@@ -1,41 +1,41 @@
 Package: ubyon-ac
-Version: 0.9.0-770cbdc
+Version: 0.9.0-61a56c6
 Architecture: amd64
 Depends: ubyon-infra
 Maintainer: Ubyon Inc
 Priority: optional
 Section: ubyon
-Filename: pool/main/u/ubyon-ac/ubyon-ac_0.9.0-770cbdc_amd64.deb
-Size: 7641000
-SHA256: b858b3a3c53bd7b0570df35ff43833b2b19943309961199980275aff3dbc16a1
-SHA1: cfa50eddb7c5ca8eb377827a87fe90af924a6f6a
-MD5sum: 9ead1587f9ba2ccd64ab3a1826788fc7
+Filename: pool/main/u/ubyon-ac/ubyon-ac_0.9.0-61a56c6_amd64.deb
+Size: 7732736
+SHA256: 715e076735623eab4619edd047894f6c338aa6b769dbd95a52d876e3160f5b82
+SHA1: 7da533864cf9f3ac755f85a5034395d4684c1b3b
+MD5sum: 7c3caf85f630295e9c73420fcb19edc5
 Description: Ubyon infrastructure software
 
 Package: ubyon-base
-Version: 0.9.0-770cbdc
+Version: 0.9.0-61a56c6
 Architecture: amd64
 Maintainer: Ubyon Inc
 Priority: optional
 Section: ubyon
-Filename: pool/main/u/ubyon-base/ubyon-base_0.9.0-770cbdc_amd64.deb
+Filename: pool/main/u/ubyon-base/ubyon-base_0.9.0-61a56c6_amd64.deb
 Size: 2436
-SHA256: cc6f8f1b4669a3d5fa5b57b65070c841aa59b93e181f293bbdb21ffee98a38a0
-SHA1: 23f67564436c98968e1acf9adf21c28fefd71a9c
-MD5sum: 23c6b508e9a42b21a4bde0c4b57f0c68
+SHA256: 5d45ed5fa02d1c76a6512d613e71a5e142053baf5fff2d12f206b0b740246e7a
+SHA1: 2e0e40be602b2dbf008bf3cec36d7a69fda8bcf8
+MD5sum: 74365169b3072977bf7bc512335233a9
 Description: Base software required by rest of ubyon packages.
 
 Package: ubyon-infra
-Version: 0.9.0-770cbdc
+Version: 0.9.0-61a56c6
 Architecture: amd64
 Depends: ubyon-base
 Maintainer: Ubyon Inc
 Priority: optional
 Section: ubyon
-Filename: pool/main/u/ubyon-infra/ubyon-infra_0.9.0-770cbdc_amd64.deb
+Filename: pool/main/u/ubyon-infra/ubyon-infra_0.9.0-61a56c6_amd64.deb
 Size: 1664
-SHA256: cd8a491b9da90bb543d9ae68dec6db356d56ec79d75fe131fc54ad68a1955938
-SHA1: 60ac04242ba53d671da1341d7de41cbace23d656
-MD5sum: 94eec849f391514bebb5a7333452ea62
+SHA256: c6e5ac677f75f81a132021c3c74a2bf63db57f43b545da5eed5ba18fe6d47f5f
+SHA1: 42525b55ecb5e78e3f204fd57738cb4af1b9b6c9
+MD5sum: 24b477cfd27a4730908ac7669acb8a1c
 Description: Ubyon infrastructure software
 
