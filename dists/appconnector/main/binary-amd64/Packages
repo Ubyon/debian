@@ -1,41 +1,13 @@
 Package: ubyon-ac
-Version: 0.9.0-e61aaa7
-Architecture: amd64
-Depends: ubyon-infra
-Maintainer: Ubyon Inc
-Priority: optional
-Section: ubyon
-Filename: pool/main/u/ubyon-ac/ubyon-ac_0.9.0-e61aaa7_amd64.deb
-Size: 7734140
-SHA256: 70a7da5717e884440495ead0493e440db29ed869f3516c44392ffb8a8b56a406
-SHA1: 88c785165f11ee2e53f145cc5fbb5a3a5d1dedb6
-MD5sum: 2306bd028f465cbf9eb79cc4f3d7a444
-Description: Ubyon infrastructure software
-
-Package: ubyon-base
-Version: 0.9.0-e61aaa7
+Version: 0.9.0-2ebfbd0
 Architecture: amd64
 Maintainer: Ubyon Inc
 Priority: optional
 Section: ubyon
-Filename: pool/main/u/ubyon-base/ubyon-base_0.9.0-e61aaa7_amd64.deb
-Size: 2436
-SHA256: 5c13ebff02eba7294f558eb6f8f208a4df83a04a94e52a09abbd10205671d1f5
-SHA1: 4f7190661c9736af012e10298c27c8863c46d84c
-MD5sum: 42cda4535667c4f312905d8bd732890b
-Description: Base software required by rest of ubyon packages.
-
-Package: ubyon-infra
-Version: 0.9.0-e61aaa7
-Architecture: amd64
-Depends: ubyon-base
-Maintainer: Ubyon Inc
-Priority: optional
-Section: ubyon
-Filename: pool/main/u/ubyon-infra/ubyon-infra_0.9.0-e61aaa7_amd64.deb
-Size: 1664
-SHA256: 295281fbf67f4006c5eedcaa851f1653040e9887ab658270a81da624e9c56d8f
-SHA1: 7fe384bb9e398fd89fd324848e34ba55109845b4
-MD5sum: 387b01feb8f0d9b0a530adc182fb85ee
-Description: Ubyon infrastructure software
+Filename: pool/main/u/ubyon-ac/ubyon-ac_0.9.0-2ebfbd0_amd64.deb
+Size: 7737444
+SHA256: fcf8b48e72192e06788b5b60e0b3152e32c948b9d116b53105ea90a1a353a00b
+SHA1: 29c3c37ced5c34f85129b087bc15a46196aa44c7
+MD5sum: 4163a9b68598c4ab4bfcaa17724f25f6
+Description: Ubyon AppConnector Software
 
