@@ -1,13 +1,13 @@
 Package: ubyon-ac
-Version: 0.9.0-e2d2030
+Version: 0.9.0-d4b1493
 Architecture: amd64
 Maintainer: Ubyon Inc
 Priority: optional
 Section: ubyon
-Filename: pool/main/u/ubyon-ac/ubyon-ac_0.9.0-e2d2030_amd64.deb
-Size: 7745332
-SHA256: c92b62c45282700bed89cf8d57a982e2fba6853d99d00b26d5b53bcdaa837f9c
-SHA1: 814317a96c25378101b53932c61a4c3885c625a1
-MD5sum: f0ceba7c876c6c76b4595a063b78ac45
+Filename: pool/main/u/ubyon-ac/ubyon-ac_0.9.0-d4b1493_amd64.deb
+Size: 7740716
+SHA256: 7b7b1eeb3c939f4543a690c26c5f0ef9ac4f9479d61df8985e28cd442598214a
+SHA1: a4928e2fdbeeec18372ebdc50386c50e11840088
+MD5sum: d1571a17fd7c24e0dac01ae94f88f257
 Description: Ubyon AppConnector Software
 
