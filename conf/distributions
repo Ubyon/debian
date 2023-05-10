@@ -1,7 +1,7 @@
 Origin: ubyon-debian
 Label: ubyon-debian
 Codename: thirdparty
-Architectures: amd64
+Architectures: amd64 arm64
 Components: main
 Description: Ubyon APT Repository
 SignWith: EEB067C817405BF5D4873F01270F4A4579C73F1E
@@ -9,7 +9,7 @@ SignWith: EEB067C817405BF5D4873F01270F4A4579C73F1E
 Origin: ubyon-debian
 Label: ubyon-debian
 Codename: appconnector
-Architectures: amd64
+Architectures: amd64 arm64
 Components: main 1.0.0
 Description: Ubyon APT Repository
 SignWith: EEB067C817405BF5D4873F01270F4A4579C73F1E
