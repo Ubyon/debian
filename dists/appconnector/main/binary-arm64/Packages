@@ -5,9 +5,9 @@ Maintainer: Ubyon Inc
 Priority: optional
 Section: ubyon
 Filename: pool/main/u/ubyon-ac/ubyon-ac_0.9.0-b7c4a97_arm64.deb
-Size: 6570456
-SHA256: 7663e3f4bd457c7c0902a2fdc4f5c90467efa80505db5b5a044614dc1e4f113e
-SHA1: 4bf16a32d884d4f2670473dbaa5b82a2e103034c
-MD5sum: 0ba04d01013da748f271499b767cb841
+Size: 6571016
+SHA256: f1a21f8009e08e593cddfb136bea2e4f60933d6930fc345b1aa8165a70022938
+SHA1: 77762f879070de1e074a42324c8a9d0171f00293
+MD5sum: 5cc41386c66c0bbaa9142eb3b047db49
 Description: Ubyon AppConnector Software
 
